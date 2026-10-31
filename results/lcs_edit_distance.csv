@@ -1,0 +1,7 @@
+algorithm,size,caseType,averageNanoseconds,averageCharacterComparisons,averageHashComparisons
+LCS,100,random,2041920.0,0.0,0.0
+EditDistance,100,random,2790600.0,0.0,0.0
+LCS,500,random,8553560.0,0.0,0.0
+EditDistance,500,random,9334700.0,0.0,0.0
+LCS,1000,random,1.122562E7,0.0,0.0
+EditDistance,1000,random,1.223386E7,0.0,0.0

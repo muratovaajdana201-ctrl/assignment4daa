@@ -1,0 +1,13 @@
+textanalysis\experiment\InputGenerator.class
+textanalysis\matching\RabinKarp.class
+textanalysis\suffix\SimpleSuffixArray.class
+textanalysis\experiment\BenchmarkRunner.class
+textanalysis\matching\KMP.class
+textanalysis\experiment\BenchmarkRunner$SearchFunction.class
+textanalysis\dp\LCS.class
+textanalysis\matching\NaiveSearch.class
+textanalysis\matching\SearchResult.class
+textanalysis\dp\EditDistance.class
+textanalysis\Main.class
+textanalysis\experiment\ExperimentResult.class
+textanalysis\suffix\Kasai.class

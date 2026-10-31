@@ -1,0 +1,4 @@
+algorithm,size,caseType,averageNanoseconds,averageCharacterComparisons,averageHashComparisons
+Kasai,1000,random,538820.0,0.0,0.0
+Kasai,5000,random,1483920.0,0.0,0.0
+Kasai,10000,random,842260.0,0.0,0.0

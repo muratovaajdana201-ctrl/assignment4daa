@@ -1,0 +1,4 @@
+textanalysis\matching\StringMatchingTest.class
+textanalysis\dp\EditDistanceTest.class
+textanalysis\dp\LCSTest.class
+textanalysis\suffix\KasaiTest.class
